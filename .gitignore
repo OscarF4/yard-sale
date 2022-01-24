@@ -1,0 +1,5 @@
+#Keep images out
+*.png
+*.svg
+*.jpg
+*jpeg
